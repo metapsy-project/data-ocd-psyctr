@@ -1,37 +1,45 @@
 International databases
 
 **PubMed**
+---
 ("obsessive compulsive"[Title/Abstract] OR "OCD"[Title/Abstract]) AND (randomizedcontrolledtrial[Filter])
 
 **Embase**
+---
 'obsessive compulsive':ti,ab,kw OR ocd:ti,ab,kw
 AND 'randomized controlled trial'/de
 
 **PsycINFO**
+---
 MA "obsessive compulsive" or OCD 
 Expanders - Apply equivalent subjects
 Narrow by Methodology: - clinical trial
 Search modes - Boolean/Phrase
 
 **WHO’s Registry (international clinical trials registry platform of WHO)**
+---
 “obsessive compulsive” or OCD
 
 
 Chinese databases
 
 **CNKI (TKA=Title/Keyword/Abstract; FT=Full Text)**
+---
 TKA = ('强迫症' + '强迫性神经官能症' + '强迫性障碍' + '强迫障碍' + '强迫性神经症') AND TKA = ('治疗' + '疗法' + '干预' + '医治' + '辅导') AND (FT= ('临床试验'+'随机对照试验') OR TKA= ('临床'+'试验'+'随机'+'交叉'+'组'+'安慰剂'+'双盲'+'单盲'+'三盲'+'平行组'+'对照研究'+'对照试验'+'对照设计'+'随机对照'+'随机对照研究'+'随机对照临床试验'+'随机对照临床研究'+'随机对照实验'+'随机化'+'RCT'))
 同义词扩展
 
 **WanFang (题名或关键词=Title or Keyword; 摘要=Abstract)**
+---
 ((题名或关键词:(强迫症 or 强迫性神经官能症 or 强迫性障碍 or 强迫障碍 or 强迫性神经症) AND 题名或关键词:(治疗 or 疗法 or 干预 or 医治 or 辅导)) or (摘要:(强迫症 or 强迫性神经官能症 or 强迫性障碍 or 强迫障碍 or 强迫性神经症) AND 摘要:(治疗 or 疗法 or 干预 or 医治 or 辅导)))
 AND (全部: (临床试验 OR 随机对照试验) OR 题名或关键词: (临床 OR 试验 OR 随机 OR交叉 OR 组 OR 安慰剂OR 双盲OR 单盲OR 三盲OR 平行组 OR 对照研究 OR 对照试验 OR 对照设计 OR 随机对照 OR 随机对照研究 OR 随机对照临床试验 OR 随机对照临床研究 OR 随机对照实验 OR 随机化 OR RCT) OR 摘要: (临床 OR 试验 OR 随机 OR交叉 OR 组 OR 安慰剂OR 双盲OR 单盲OR 三盲OR 平行组 OR 对照研究 OR 对照试验 OR 对照设计 OR 随机对照 OR 随机对照研究 OR 随机对照临床试验 OR 随机对照临床研究 OR 随机对照实验 OR 随机化 OR RCT))
 主题词扩展
 
 **WeiPu (M=Title/Keyword; R=Abstract)**
+---
 ((M=(强迫症+强迫性神经官能症+强迫性障碍+强迫障碍+强迫性神经症) AND M=(治疗+疗法+干预+医治+辅导)) OR (R=(强迫症+强迫性神经官能症+强迫性障碍+强迫障碍+强迫性神经症) AND R=(治疗+疗法+干预+医治+辅导)))
 AND (U=(临床试验 OR 随机对照试验) OR (M=(临床 OR 试验 OR 随机 OR交叉 OR 组 OR 安慰剂OR 双盲OR 单盲OR 三盲OR 平行组 OR 对照研究 OR 对照试验 OR 对照设计 OR 随机对照 OR 随机对照研究 OR 随机对照临床试验 OR 随机对照临床研究 OR 随机对照实验 OR 随机化 OR RCT)) OR (R=(临床 OR 试验 OR 随机 OR交叉 OR 组 OR 安慰剂OR 双盲OR 单盲OR 三盲OR 平行组 OR 对照研究 OR 对照试验 OR 对照设计 OR 随机对照 OR 随机对照研究 OR 随机对照临床试验 OR 随机对照临床研究 OR 随机对照实验 OR 随机化 OR RCT)))
 
 
 **ChiCTR(Chinese Clinical Trial Registry)**
+---
 强迫
