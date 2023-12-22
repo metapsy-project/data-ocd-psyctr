@@ -8,11 +8,11 @@
        "Wrong population": 53, 
         "Wrong design": 133, 
         "Wrong comparators": 144, 
+        "Unguided self-help": 12,
         "Protocols": 10,
         "Trial registrations without results": 104,
-        "Other reasons": 55, 
+        "Other reasons": 62, 
         "No full-text": 10,
-        "Other age groups": 14, 
     },
     "included": 48
 }
