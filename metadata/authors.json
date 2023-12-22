@@ -1,14 +1,40 @@
 [
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Yingying Wang"
     },
     {
         "name": "Clara Miguel",
         "orcid": "0000-0001-5563-5896"
     },
     {
-        "name": "Eirini Karyotaki",
-        "orcid": "0000-0002-0071-2599"
+        "name": "Marketa Ciharova",
+        "orcid": "0000-0002-7131-1549"
+    },
+    {
+        "name": "Arpana Amarnath"
+    },
+    {
+        "name": "Jingyuan Lin", 
+         "orcid": "0000-0001-6547-2111",
+    },
+    {
+        "name": "Ruiying Zhao",
+        "orcid": "0000-0002-4342-6584"
+    },
+    {
+        "name": "Marieke B.J. Toffolo",
+        "orcid": "0000-0002-2636-879X"
+    },
+    {
+        "name": "Sascha Y. Struijs",
+        "orcid": "0000-0002-2668-5410"
+    },
+     {
+        "name": "Leonore M. de Wit ",
+        "orcid": "0000-0002-2745-3806"
+    },
+    {
+        "name": "Pim Cuijpers",
+        "orcid": "0000-0001-5497-2743"
     }
 ]
